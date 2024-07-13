@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am a Full Stack Developer with 4 years of extensive experience in developing and maintaining web applications using Python - Flask, Java - Spring Boot, and Angular. I specialize in managing applications on various AWS services. I have a strong understanding of front-end development with TypeScript, JavaScript, HTML, and CSS, as well as back-end technologies such as Spring Boot, Flask, MySQL, and MongoDB.
+A Full Stack Developer with 4 years of extensive experience in developing and maintaining web applications using Python - Flask, Java - Spring Boot, and Angular. I specialize in managing applications on various AWS services and have a strong understanding of front-end development with TypeScript, JavaScript, HTML, and CSS, as well as back-end technologies such as Spring Boot, Flask, MySQL, and MongoDB. Passionate about computers 🖥️, programming 🧑‍💻, and sustainable, eco-friendly & healthy living 🌳♻️🏃🥗. Huge fan of FC Barcelona 🔴🔵, Taskmaster, WILTY, Friends, and GOT ❄️🔥. 
 
 ## Skills
 
@@ -32,7 +32,7 @@ I am a Full Stack Developer with 4 years of extensive experience in developing a
 
 ### Ameha Technologies Pvt. Ltd. (July 2020 - Present)
 #### SDE-II
-- **B2B and B2C Job Portal**
+- **B2B and B2C Job Portal** 📄
   - Led the team and project architecture.
   - Developed multiple microservices in Spring Boot with TDD using JUnit and Test Containers.
   - Worked with MongoDB Atlas and OpenAI text embeddings.
@@ -40,24 +40,24 @@ I am a Full Stack Developer with 4 years of extensive experience in developing a
   - Containerized backend and frontend microservices with Docker and deployed them on VMs.
   - Maintained Jenkins and ArgoCD.
 
-- **E-Commerce Platform for Organic Products**
+- **E-Commerce Platform for Organic Products** 🛒
   - Developed and maintained front-end features using Angular 12.
   - Maintained backend with Spring Boot and deployed it on AWS services.
   - Worked with the Marketing team on Google Analytics and GTM.
 
-- **Edutech Web Application**
+- **Edutech Web Application** 🎓
   - Collaborated in an AGILE environment to develop the application using Angular 11.
   - Developed and maintained the Spring Boot backend.
   - Managed servers and deployment on AWS services.
 
-- **Corporate Lending Application**
+- **Corporate Lending Application** 💼
   - Led test-driven front-end development with Angular and Jasmine.
   - Established coding standards and guidelines.
   - Cleaned and rewrote CSS to align with Figma and Mural designs.
   - Migrated the app from Angular 12 to Angular 15 and integrated Okta.
   - Developed backend services with Spring Boot.
 
-### Personal Projects
+### Personal Practice Projects
 - **Predicting Customer Transactions**: Participated in the Santander Competition on Kaggle.
 - **Flower Classification**: Developed a deep learning model using PyTorch.
 - **NYC Taxi Fare Prediction**: Implemented select ML algorithms.
@@ -65,20 +65,21 @@ I am a Full Stack Developer with 4 years of extensive experience in developing a
 - **Data Scraping**: Scraped data science job postings on in.indeed.com.
 
 ## Education
-- **MCA, Capital University (2019-2021)**: First Division with Distinction
-- **MA (Applied Psychology), Jamia Millia Islamia (2017-2019)**: First Division with Distinction, UGC-JRF (2018)
+- **MCA, Capital University (2019-2021)**: First Division with Distinction 🎓
+- **MA (Applied Psychology), Jamia Millia Islamia (2017-2019)**: First Division with Distinction, UGC-JRF (2018) 🎓
 
 ## Certifications
-- **Angular - The Complete Guide** (Udemy, 2020)
-- **Data Science and Machine Learning with Python** (SkillShare, 2021)
-- **Data Science Courses** (Kaggle, 2021)
-- **Logic and Computational Thinking** (Microsoft, 2019)
+- **Angular - The Complete Guide** (Udemy, 2020) 📜
+- **Data Science and Machine Learning with Python** (SkillShare, 2021) 📜
+- **Data Science Courses** (Kaggle, 2021) 📜
+- **Logic and Computational Thinking** (Microsoft, 2019) 📜
 
 ## Achievements
-- **Junior Research Fellowship (JRF)**: Secured along with UGC-NET in 2018.
-- **Problem Solving Assessment**: Achieved 98 and 97 percentiles in qualitative and quantitative reasoning respectively.
+- **Junior Research Fellowship (JRF)**: Secured along with UGC-NET in 2018. 🏅
+- **Problem Solving Assessment**: Achieved 98 and 97 percentiles in qualitative and quantitative reasoning respectively. 🏅
 
 ## Contact
 - **Email**: ncitshubham@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/shubham-saini-18796315a/
 
 Let's connect and collaborate!
