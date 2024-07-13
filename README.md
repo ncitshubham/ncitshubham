@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Saini 👋
+# Hi there 👋
 
 ## About Me
 I am a Full Stack Developer with 4 years of extensive experience in developing and maintaining web applications using Python - Flask, Java - Spring Boot, and Angular. I specialize in managing applications on various AWS services. I have a strong understanding of front-end development with TypeScript, JavaScript, HTML, and CSS, as well as back-end technologies such as Spring Boot, Flask, MySQL, and MongoDB.
@@ -30,7 +30,7 @@ I am a Full Stack Developer with 4 years of extensive experience in developing a
 
 ## Experience
 
-### Ameeega Tech Pvt. Ltd. (July 2020 - Present)
+### Ameha Technologies Pvt. Ltd. (July 2020 - Present)
 #### SDE-II
 - **B2B and B2C Job Portal**
   - Led the team and project architecture.
@@ -80,6 +80,5 @@ I am a Full Stack Developer with 4 years of extensive experience in developing a
 
 ## Contact
 - **Email**: ncitshubham@gmail.com
-- 
 
 Let's connect and collaborate!
