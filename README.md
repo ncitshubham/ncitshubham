@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ## About Me
-A Full Stack Developer with 4 years of extensive experience in developing and maintaining web applications using Python - Flask, Java - Spring Boot, and Angular. I specialize in managing applications on various AWS services and have a strong understanding of front-end development with TypeScript, JavaScript, HTML, and CSS, as well as back-end technologies such as Spring Boot, Flask, MySQL, and MongoDB. Passionate about computers 🖥️, programming 🧑‍💻, and sustainable, eco-friendly & healthy living 🌳♻️🏃🥗. Huge fan of FC Barcelona 🔴🔵, Taskmaster, WILTY, Friends, and GOT ❄️🔥. 
+I am a Full Stack Developer with 4 years of extensive experience in developing and maintaining web applications using Python - Flask, Java - Spring Boot, and Angular. I specialize in managing applications on various AWS services and have a strong understanding of front-end development with TypeScript, JavaScript, HTML, and CSS, as well as back-end technologies such as Spring Boot, Flask, MySQL, and MongoDB. 
+I am passionate about computers 🖥️, programming 🧑‍💻, and sustainable, eco-friendly & healthy living 🌳♻️🏃🥗. Also a huge fan of FC Barcelona 🔴🔵, Taskmaster, WILTY, Friends, and GOT ❄️🔥. 
 
 ## Skills
 
@@ -11,7 +12,7 @@ A Full Stack Developer with 4 years of extensive experience in developing and ma
 
 ### Backend
 - **Languages & Frameworks**: Java (Spring Boot), Python (Flask)
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB
 - **API Development**: REST APIs, Swagger
 
 ### DevOps
